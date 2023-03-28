@@ -1,7 +1,7 @@
 # Team 8 Final Project Proposal
 
 ## Team Members
-![team 8 protrait]()
+![team 8 protrait](portrait.jpg)
 - Youssef Georgy | Electrical & Computer Engineering
 - Rizzi Galibut | Mechanical & Aerospace Engineering
 - Shuhang Xu | Computer Science
